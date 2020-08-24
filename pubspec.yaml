@@ -23,11 +23,5 @@ flutter:
 
   assets:
     - assets/images/apple.png
-    - assets/images/apple@2x.png
-    - assets/images/apple@3x.png
     - assets/images/icons8-cherry.png
-    - assets/images/icons8-cherry@2x.png
-    - assets/images/icons8-cherry@3x.png
     - assets/images/icons8-star-512.png
-    - assets/images/icons8-star-512@2x.png
-    - assets/images/icons8-star-512@3x.png
